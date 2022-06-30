@@ -1,3 +1,3 @@
 ---
-Welcome: Welcome to my blog test site
+title: Welcome to my blog
 ---
